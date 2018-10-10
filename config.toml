@@ -1,4 +1,4 @@
-baseurl = "http://SeungKiLeeSMU.github.io/Research-Hub/"
+baseurl = "http://seungkileesmu.github.io/Research-Hub/"
 title = "Research-Hub"
 theme = "dimension"
 languageCode = "en-us"
