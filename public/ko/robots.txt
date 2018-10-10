@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://SeungKiLeeSMU.github.io/Research-Hub//sitemap.xml
+Sitemap: http://seungkileesmu.github.io/Research-Hub//sitemap.xml
