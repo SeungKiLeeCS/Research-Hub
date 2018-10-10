@@ -1,5 +1,5 @@
-baseurl = "http://SeungKiLeeSMU.github.io"
-title = "SeungKi Lee"
+baseurl = "http://SeungKiLeeSMU.github.io/Research-Hub/"
+title = "Research-Hub"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -44,12 +44,13 @@ languageName = "English"
 weight = 1
 
 [languages.ko]
-languageName = "Korean"
+languageName = "한글"
 weight = 2
 description = '<!--[--> 파편을 심는 화분 <!--]--> </br>
                   <!--[--> 프로그래머, 경제학자, 작가 <!--]-->'
 
 [languages.jp]
-languageName = "Japanese"
+languageName = "日本語"
 weight = 3
-description = '<!--[--> 破片を植えるプランター <!--]-->'
+description = '<!--[--> 破片を植えるプランター <!--]--> </br>
+                  <!--[--> プログラマー、経済学者、作家 <!--]-->'
