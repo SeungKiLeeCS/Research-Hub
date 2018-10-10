@@ -12,9 +12,10 @@ draft: true
 <!-- {{ end }} -->
 
 
-Here's sum inline math: {{< tex "\sum_{n=1}^{\infty} 2^{-n} = 1" >}}.
+inline으로 sum을 표현하는 방법: `{{< tex "\sum_{n=1}^{\infty} 2^{-n} = 1" >}}` {{< tex "\sum_{n=1}^{\infty} 2^{-n} = 1" >}}.
 
-Display mode math looks like
+Display Mode로 라텍스를 넣을 때는
+    `{{< tex display="\int \frac{1}{x} dx = \ln |x|" >}}`
     {{< tex display="\int \frac{1}{x} dx = \ln |x|" >}}
 
 <!-- bottom of page -->
